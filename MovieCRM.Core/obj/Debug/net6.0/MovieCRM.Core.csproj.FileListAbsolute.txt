@@ -1,0 +1,12 @@
+E:\MovieMVC\MovieShopMVC\MovieCRM.Core\bin\Debug\net6.0\MovieCRM.Core.deps.json
+E:\MovieMVC\MovieShopMVC\MovieCRM.Core\bin\Debug\net6.0\MovieCRM.Core.dll
+E:\MovieMVC\MovieShopMVC\MovieCRM.Core\bin\Debug\net6.0\MovieCRM.Core.pdb
+E:\MovieMVC\MovieShopMVC\MovieCRM.Core\obj\Debug\net6.0\MovieCRM.Core.csproj.AssemblyReference.cache
+E:\MovieMVC\MovieShopMVC\MovieCRM.Core\obj\Debug\net6.0\MovieCRM.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\MovieMVC\MovieShopMVC\MovieCRM.Core\obj\Debug\net6.0\MovieCRM.Core.AssemblyInfoInputs.cache
+E:\MovieMVC\MovieShopMVC\MovieCRM.Core\obj\Debug\net6.0\MovieCRM.Core.AssemblyInfo.cs
+E:\MovieMVC\MovieShopMVC\MovieCRM.Core\obj\Debug\net6.0\MovieCRM.Core.csproj.CoreCompileInputs.cache
+E:\MovieMVC\MovieShopMVC\MovieCRM.Core\obj\Debug\net6.0\MovieCRM.Core.dll
+E:\MovieMVC\MovieShopMVC\MovieCRM.Core\obj\Debug\net6.0\refint\MovieCRM.Core.dll
+E:\MovieMVC\MovieShopMVC\MovieCRM.Core\obj\Debug\net6.0\MovieCRM.Core.pdb
+E:\MovieMVC\MovieShopMVC\MovieCRM.Core\obj\Debug\net6.0\ref\MovieCRM.Core.dll

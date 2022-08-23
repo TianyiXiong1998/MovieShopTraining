@@ -1,0 +1,86 @@
+﻿@model IEnumerable<ActorsModel>
+
+<div class="container-fluid bg-dark ">
+    
+    <div class="row">
+        <div class="col-4">
+            <img src="https://image.tmdb.org/t/p/w500/8IB2e4r4oVhHnANbnm7O3Tj6tF8.jpg" width="200" style="float:right"/>
+        </div>
+        
+        <div class="col-8">
+            <div class="row">
+                <div class="col">
+                    <h3 class="text-light text-center">@ViewBag.moviename</h3>
+                    <span style="font-size:small;color:darkgray">your mind is the scene of the crime</span>
+                    <div>
+                        <div class="row">
+                            <p style="font-size:small;color:darkgray">148min|2010</p>
+                        
+                        </div>
+                        <span class="badge bg-success">8.9</span>
+                    </div>
+                    
+                </div>
+                
+                <div class="col text-center">
+                    <div class="row">
+                        <p> </p>
+                    </div>
+                    <div class="row"><p> </p></div>
+                    <div class="row"><p> </p></div>
+                    <div class="row"><p> </p></div>
+                    <span class="badge bg-secondary">Adventure</span>
+                    <span class="badge bg-secondary">Action</span>
+                    <span class="badge bg-secondary">Science Fiction</span>
+                </div>
+                <div class="col text-center">
+                    <div class="row">
+                       <p> </p>
+                    </div>
+                    <div class="row">
+                       <p> </p>
+                    </div>
+                    <div class="row">
+                       <p> </p>
+                    </div>
+                    <button type="button" class="btn btn-outline-secondary">Preview</button>
+                    <div class="row">
+                       <p> </p>
+                    </div>
+                    <button type="button" class="btn btn-light">Buy $19.9</button>
+                </div>
+
+            </div>
+            <div>
+                <p> </p>
+                <strong class="text-light" style="font-size:small">introduction of movie</p>
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+<div class="container text-black">
+
+    <div class="row">
+        <div class=" col-4">
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">MOVIE FACTS</li>
+                <li class="list-group-item">release date: Jul 15 2010</li>
+                <li class="list-group-item">Run Time: 148m</li>
+                <li class="list-group-item">Box Office: $825,532,764</li>
+            </ul>
+        </div>
+
+        <div class="col-8 text-center">
+            <strong>CAST</strong>
+            @foreach (var m in Model)
+            {
+                <partial name="_Actors" model="@m"></partial>
+            }
+        </div>
+    </div>
+
+
+
+</div>

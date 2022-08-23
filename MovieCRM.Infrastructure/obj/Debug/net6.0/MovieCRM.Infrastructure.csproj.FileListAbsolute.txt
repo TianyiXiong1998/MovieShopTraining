@@ -1,0 +1,17 @@
+E:\MovieMVC\MovieShopMVC\MovieCRM.Infrastructure\bin\Debug\net6.0\MovieCRM.Infrastructure.deps.json
+E:\MovieMVC\MovieShopMVC\MovieCRM.Infrastructure\bin\Debug\net6.0\MovieCRM.Infrastructure.runtimeconfig.json
+E:\MovieMVC\MovieShopMVC\MovieCRM.Infrastructure\bin\Debug\net6.0\MovieCRM.Infrastructure.dll
+E:\MovieMVC\MovieShopMVC\MovieCRM.Infrastructure\bin\Debug\net6.0\MovieCRM.Infrastructure.pdb
+E:\MovieMVC\MovieShopMVC\MovieCRM.Infrastructure\bin\Debug\net6.0\MovieCRM.Core.dll
+E:\MovieMVC\MovieShopMVC\MovieCRM.Infrastructure\bin\Debug\net6.0\MovieCRM.Core.pdb
+E:\MovieMVC\MovieShopMVC\MovieCRM.Infrastructure\obj\Debug\net6.0\MovieCRM.Infrastructure.csproj.AssemblyReference.cache
+E:\MovieMVC\MovieShopMVC\MovieCRM.Infrastructure\obj\Debug\net6.0\MovieCRM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\MovieMVC\MovieShopMVC\MovieCRM.Infrastructure\obj\Debug\net6.0\MovieCRM.Infrastructure.AssemblyInfoInputs.cache
+E:\MovieMVC\MovieShopMVC\MovieCRM.Infrastructure\obj\Debug\net6.0\MovieCRM.Infrastructure.AssemblyInfo.cs
+E:\MovieMVC\MovieShopMVC\MovieCRM.Infrastructure\obj\Debug\net6.0\MovieCRM.Infrastructure.csproj.CoreCompileInputs.cache
+E:\MovieMVC\MovieShopMVC\MovieCRM.Infrastructure\obj\Debug\net6.0\MovieCRM.Infrastructure.csproj.CopyComplete
+E:\MovieMVC\MovieShopMVC\MovieCRM.Infrastructure\obj\Debug\net6.0\MovieCRM.Infrastructure.dll
+E:\MovieMVC\MovieShopMVC\MovieCRM.Infrastructure\obj\Debug\net6.0\refint\MovieCRM.Infrastructure.dll
+E:\MovieMVC\MovieShopMVC\MovieCRM.Infrastructure\obj\Debug\net6.0\MovieCRM.Infrastructure.pdb
+E:\MovieMVC\MovieShopMVC\MovieCRM.Infrastructure\obj\Debug\net6.0\MovieCRM.Infrastructure.genruntimeconfig.cache
+E:\MovieMVC\MovieShopMVC\MovieCRM.Infrastructure\obj\Debug\net6.0\ref\MovieCRM.Infrastructure.dll
